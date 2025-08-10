@@ -1,6 +1,5 @@
 /*
 Author: Ashutosh Jambhale
-Student ID: 1657201
 Initial Solution Heuristic:
 1. Sort all box orientations by bottom face area (width × depth) in descending order.
 2. For each box as a potential base, greedily build a stack by adding compatible
